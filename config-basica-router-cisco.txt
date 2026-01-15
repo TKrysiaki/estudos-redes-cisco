@@ -1,0 +1,26 @@
+***** DESCOBRINDO AS INTERFACES *****
+- enable (modo privilegiado)
+- show ip interface brief (mostra quais portas existem e se estão UP/DOWN)
+
+**** CONFIGURANDO O ROUTIADOR ****
+- conf t (entra em config)
+- interface g0/0 (escolhe a porta)
+- ip address 192.168.1.1 255.255.255.0 (define IP)
+- no shutdown (liga a porta (sem isso fica DOWN))
+- exit (volta)
+
+***** SE TIVER OUTRO CABO *****
+- interface g0/1 
+- ip address 192.168.2.1 255.255.255.0
+- no shutdown
+- exit
+
+***** TESTANDO CONEXÃO *****
+- show ip interface brief (tem que ficar UP/UP)
+
+***** salvando as informções *****
+- copy running-config startup-config (salva pra não perder ao reiniciar)
+
+
+***** Sempre que configurar interface, no shutdown é obrigatório.
+Sem isso, não funciona mesmo com IP certo. *****
