@@ -23,5 +23,4 @@ show ip interface brief
 ping 192.168.1.10
 
 copy running-config startup-config
-
 no shutdown
