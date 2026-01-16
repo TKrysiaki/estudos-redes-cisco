@@ -23,10 +23,6 @@ Depois: **Commit changes**.
 
 ---
 
-# ✅ ARQUIVO 2 — `README.md`
-
-👉 Edite o README e **substitua tudo por isso**:
-
 ```md
 # 📘 Estudos de Redes Cisco
 
