@@ -18,28 +18,3 @@ show ip interface brief
 ping 192.168.1.10
 copy running-config startup-config
 no shutdown
-
-Depois: **Commit changes**.
-
----
-
-```md
-# 📘 Estudos de Redes Cisco
-
-Labs de estudo de redes Cisco (Packet Tracer) e comandos básicos de configuração de router.
-
----
-
-## 📂 Conteúdos
-
-### 🔧 Configuração de Router
-- [Configuração básica de Router Cisco](config-basica-router-cisco.md)
-
-### 🧪 Labs Packet Tracer
-- lab1-rede-basica-router-switch.pkt — Rede básica com router e switch
-
----
-
-## 🎯 Objetivo
-
-Repositório criado para registrar minha evolução nos estudos de redes, com foco em prática e documentação dos comandos utilizados.
