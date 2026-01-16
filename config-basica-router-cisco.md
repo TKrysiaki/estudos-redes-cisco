@@ -1,6 +1,8 @@
 # 🔧 Configuração básica de Router Cisco
 
+
 ## 📡 Descobrindo as interfaces
+
 
 ```bash
 enable
