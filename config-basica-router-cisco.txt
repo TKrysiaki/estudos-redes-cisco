@@ -1,26 +1,41 @@
-***** DESCOBRINDO AS INTERFACES *****
-- enable (modo privilegiado)
-- show ip interface brief (mostra quais portas existem e se estão UP/DOWN)
+## 🔧 Configuração básica de interfaces no roteador (Cisco)
 
-**** CONFIGURANDO O ROTEADOR ****
-- conf t (entra em config)
-- interface g0/0 (escolhe a porta)
-- ip address 192.168.1.1 255.255.255.0 (define IP)
-- no shutdown (liga a porta (sem isso fica DOWN))
-- exit (volta)
+### 📡 Descobrindo as interfaces
 
-***** SE TIVER OUTRO CABO *****
-- interface g0/1 
-- ip address 192.168.2.1 255.255.255.0
-- no shutdown
-- exit
+- `enable` → entra no modo privilegiado
+- `show ip interface brief` → mostra as portas e se estão **UP/DOWN**
 
-***** TESTANDO CONEXÃO *****
-- show ip interface brief (tem que ficar UP/UP)
-- ping 192.168.1.10 (IP usado na configuração do PC)
+---
 
-***** SALVANDO INFORMAÇÕES *****
-- copy running-config startup-config (salva pra não perder ao reiniciar)
+### ⚙️ Configurando o roteador (primeira interface)
 
-***** Sempre que configurar interface, no shutdown é obrigatório.
-Sem isso, não funciona mesmo com IP certo. *****
+- `conf t` → entra em modo de configuração
+- `interface g0/0` → escolhe a porta
+- `ip address 192.168.1.1 255.255.255.0` → define o IP
+- `no shutdown` → ativa a interface (**obrigatório**)
+- `exit` → volta
+
+---
+
+### 🔌 Se tiver outro cabo (segunda interface)
+
+- `interface g0/1`
+- `ip address 192.168.2.1 255.255.255.0`
+- `no shutdown`
+- `exit`
+
+---
+
+### ✅ Testando conexão
+
+- `show ip interface brief` → deve aparecer **UP / UP**
+- `ping 192.168.1.10` → IP do PC configurado
+
+Se responder, a comunicação está funcionando.
+
+---
+
+### 💾 Salvando as configurações
+
+Para não perder ao reiniciar o roteador:
+
