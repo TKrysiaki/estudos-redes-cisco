@@ -10,9 +10,18 @@
 ---
 
 ### 🔹 Switch# - Privileged EXEC
-Entrar:
+Entrar: enable
 - Acesso total para visualização e comandos administrativos
 
 ---
 
 ### 🔹 Global Configuration
+
+### Privileged EXEC
+
+Entrar no modo:
+```
+enable
+```
+
+- Acesso total para visualização e comandos administrativos
