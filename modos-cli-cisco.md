@@ -4,12 +4,12 @@
 
 ## Modos
 
-### 🔹 User EXEC
+### 🔹 Switch> - User EXEC 
 - Acesso limitado (somente visualização básica)
 
 ---
 
-### 🔹 Privileged EXEC
+### 🔹 Switch# - Privileged EXEC
 Entrar:
 - Acesso total para visualização e comandos administrativos
 
