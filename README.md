@@ -26,3 +26,10 @@ Fixar conceitos de redes, praticar comandos Cisco e montar base para:
 ## 📌 Em evolução
 
 Este repositório será atualizado conforme avanço nos estudos de redes.
+
+## 🚧 Em andamento
+- VLAN e Trunk
+- Inter-VLAN Routing
+- Subnetting na prática
+- ACL básica
+
