@@ -12,7 +12,7 @@ Digite:
 ---
 ## 🔐 Enable Secret (senha do modo privilegiado)
 
-## Configurar senha:
+### Configurar senha:
 Digite: 
 ```
 enable > configure terminal > enable secret "SENHA"
