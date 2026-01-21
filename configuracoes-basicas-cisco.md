@@ -2,7 +2,7 @@
 
 ## 🔹 Alterar Hostname
 
-## Entrar em modo de configuração:
+### Entrar em modo de configuração:
 ```enable > configure terminal```
 
 ---
@@ -26,13 +26,13 @@ enable > configure terminal > enable secret "SENHA"
 
 ## ⏰ Relógio (Clock)
 
-## Ver data e hora:
+### Ver data e hora:
 Digite: 
 ```show clock```
-## Configuração manual (menos recomendada)
+### Configuração manual (menos recomendada)
 Digite:
 ```enable > clock set 21:30:00 15 jan 2026```
-## Configuração via servidor NTP (recomendado)
+### Configuração via servidor NTP (recomendado)
 Digite:
 ```enable > configure terminal > ntp setver 2.2.2.2```
 (troque o 2.2.2.2 pelo ip do fornecedor)
@@ -40,7 +40,7 @@ Digite:
 ---
 ## ⚠️ Banner MOTD (aviso de acesso)
 
-## Configurar banner:
+### Configurar banner:
 Digite: 
 ```enable > configure terminal > banner motd ^```
 (digite a mensagem)
@@ -54,7 +54,7 @@ Somente pessoal autorizado
 ---
 ## 💾 Salvar Configurações
 
-## Salvar configurações permanentes:
+### Salvar configurações permanentes:
 Digite: 
 ```enable > copy running-config startup-config```
 Confirme com **Enter** quando solicitar.
