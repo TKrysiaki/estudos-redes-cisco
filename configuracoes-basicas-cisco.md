@@ -5,6 +5,8 @@
 ## Entrar em modo de configuração:
 ```enable > configure terminal```
 
+---
+
 ## Alterar nome do equipamento:
 Digite: 
 ```hostname NY-01```
