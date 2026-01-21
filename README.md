@@ -9,6 +9,8 @@ o Cisco Packet Tracer, com foco em configuração básica de **routers** e **swi
 - ✅ Modelo OSI (7 camadas)
 - ✅ Modelo TCP/IP (4 camadas)
 - ✅ Troubleshooting de rede (diagnóstico passo a passo)
+- ✅ Modos de operação da CLI Cisco
+- ✅ Configurações básicas (hostname, senha, NTP, banner)
 - 🧪 Laboratório prático (.pkt) com router e switch
 
 ## 🎯 Objetivo
