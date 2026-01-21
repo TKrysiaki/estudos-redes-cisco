@@ -34,7 +34,7 @@ Digite:
 ```enable > clock set 21:30:00 15 jan 2026```
 ### Configuração via servidor NTP (recomendado)
 Digite:
-```enable > configure terminal > ntp setver 2.2.2.2```
+```enable > configure terminal > ntp server 2.2.2.2```
 (troque o 2.2.2.2 pelo ip do fornecedor)
 
 ---
