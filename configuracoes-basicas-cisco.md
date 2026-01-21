@@ -61,7 +61,7 @@ Confirme com **Enter** quando solicitar.
 
 ---
 
-#### 💡 Dica Importante
-## Para remover qualquer configuração, use `no` antes do comando.
+## 💡 Dica Importante
+### Para remover qualquer configuração, use `no` antes do comando.
 Exemplo:
 ```no ntp server 2.2.2.2```
