@@ -10,6 +10,7 @@ Digite:
 ```hostname NY-01```
 
 ---
+
 ## 🔐 Enable Secret (senha do modo privilegiado)
 
 ### Configurar senha:
