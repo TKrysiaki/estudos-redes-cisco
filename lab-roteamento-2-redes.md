@@ -43,7 +43,9 @@ interface g0/0/1
 - ## ✅ Testes
 
 - Ping entre PCs da mesma rede → OK  
-- Ping entre PCs de redes diferentes (192.168.1.0/24 ↔ 192.168.2.0/24) → OK  
+- Ping entre PCs de redes diferentes (192.168.1.0/24 ↔ 192.168.2.0/24) → OK
+
+### 📸 Evidência de teste (Ping entre redes)
 ![Ping funcionando](./imagens/ping-ok.png)
 
 
