@@ -38,11 +38,14 @@ interface g0/0/1
  exit
 
 ```
-## ✅ Testes
-- Ping entre PCs da mesma rede → OK
-- Ping entre PCs de redes diferentes → OK (roteamento funcionando)
+- ## ✅ Testes
+
+- Ping entre PCs da mesma rede → OK  
+- Ping entre PCs de redes diferentes (192.168.1.0/24 ↔ 192.168.2.0/24) → OK  
+
 
 ## 📌 Conceitos praticados
+
 - Configuração de múltiplas interfaces no roteador
 - Separação de redes (sub-redes)
 - Uso de Default Gateway
