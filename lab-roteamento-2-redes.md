@@ -12,6 +12,7 @@ Permitir comunicação entre PCs em redes diferentes usando um roteador.
 - 3 PCs
 
 ## 🌐 Endereçamento IP
+
 ### Rede 1 — 192.168.1.0/24
 
 - PC1: 192.168.1.10 /24
@@ -19,6 +20,7 @@ Permitir comunicação entre PCs em redes diferentes usando um roteador.
 - Gateway: 192.168.1.1
 
 ### Rede 2 — 192.168.2.0/24
+
 - PC3: 192.168.2.10 /24
 - Gateway: 192.168.2.1
 
@@ -42,6 +44,7 @@ interface g0/0/1
 
 - Ping entre PCs da mesma rede → OK  
 - Ping entre PCs de redes diferentes (192.168.1.0/24 ↔ 192.168.2.0/24) → OK  
+![Ping funcionando](./imagens/ping-ok.png)
 
 
 ## 📌 Conceitos praticados
