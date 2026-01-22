@@ -1,5 +1,5 @@
 ## 🧪 Lab — Roteamento entre Duas Redes (Packet Tracer)
-###🎯 Objetivo
+### 🎯 Objetivo
 
 Permitir comunicação entre PCs em redes diferentes usando um roteador.
 
