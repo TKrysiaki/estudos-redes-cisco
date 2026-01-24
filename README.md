@@ -13,8 +13,9 @@ o Cisco Packet Tracer, com foco em configuração básica de **routers** e **swi
 - ✅ Configurações básicas (hostname, senha, NTP, banner)
   
 ## 🧪 Laboratórios práticos:
-- labs/roteamento/lab1-rede-basica-router-switch.pkt
-- labs/roteamento/lab-roteamento-duas-redes.md
+- [Lab 1 - Rede básica Router + Switch](labs/roteamento/lab1-rede-basica-router-switch.pkt)
+- [Lab - Roteamento entre duas redes](labs/roteamento/lab-roteamento-duas-redes.md)
+
 
 ## 🎯 Objetivo
 
