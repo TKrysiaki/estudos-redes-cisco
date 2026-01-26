@@ -16,6 +16,11 @@ utilizando a CLI no Cisco Packet Tracer.
 
 - 📄 modos-cli-cisco.md  
   Modos de operação da CLI Cisco e como navegar entre eles.
+  
+- 📁 packet-tracer/
+  - lab1-router-switch-basico.pkt  
+    Topologia PC–Switch–Router configurada no Packet Tracer.
+
 
 ## 🎯 Objetivo
 
