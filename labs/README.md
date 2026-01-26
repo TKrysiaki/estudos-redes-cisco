@@ -13,6 +13,22 @@ Esta pasta contém labs práticos feitos em máquinas virtuais (VirtualBox) e si
 
 Objetivo: validar conectividade e configuração básica de rede entre máquinas virtuais.
 
+
+### 📌 IPs usados no lab
+
+- Kali: 192.168.56.103  
+- Ubuntu: 192.168.56.102  
+
+### 📡 Teste de conectividade
+
+Do Kali:
+```ping 192.168.56.102```
+
+Do Ubuntu:
+```ping 192.168.56.103```
+
+### Se responder, as VMs estão na mesma rede e com comunicação OK.
+
 ## 📸 Print do Lab
 
 ![Ping Kali para Ubuntu](../imagens/ping-kali-ubuntu.png)
