@@ -8,7 +8,7 @@ utilizando a CLI no Cisco Packet Tracer.
 - 📄 config-basica-router-cisco.md  
   Configuração inicial de router (hostname, senha, interfaces, testes).
 
-- 📄 configuracao-basica-de-switch.md  
+- 📄 configuracao-basica-de-switch-cisco.md  
   Configuração básica de switch com IP de gerenciamento na VLAN 1 e gateway.
 
 - 📄 config-basicas-cisco.md  
