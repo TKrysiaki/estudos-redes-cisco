@@ -38,6 +38,16 @@ O ^ indica início e fim do texto do banner.
 ##  💾 Salvar configurações
 ```copy running-config startup-config```
 
+## 🌐 Configurar IP de gerenciamento (VLAN 1)
+```
+- enable
+- conf t
+- interface vlan 1
+- ip address 192.168.10.2 255.255.255.0
+- no shutdown
+- exit
+```
+
 ## 🚪 Definir Gateway Padrão do Switch
 ```
 - conf t
