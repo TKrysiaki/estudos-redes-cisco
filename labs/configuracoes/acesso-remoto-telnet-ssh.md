@@ -1,6 +1,7 @@
 # Acesso Remoto em Switch e Router (Telnet e SSH)
 
 ## 🔴 Telnet (TCP porta 23)
+### > ⚠️ Telnet não é seguro (senha em texto puro). Em ambiente real, use sempre SSH.
 
 ### Comando para acessar:
 ```telnet 192.168.10.2```
@@ -45,7 +46,7 @@ exit
 ```
 
 ### Salvar configurações
-```copy run start```
+```copy running-config startup-config```
 
 ## 🔵 Acessando via SSH de outro dispositivo
 ```
@@ -53,7 +54,7 @@ enable
 ssh -l admin 192.168.10.2
 ```
 Senha:
-```cisco```
+```senha```
 
 Para sair da conexão:
 ```exit```
