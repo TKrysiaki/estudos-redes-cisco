@@ -53,7 +53,7 @@ enable
 ssh -l admin 192.168.10.2
 ```
 Senha:
-````cisco```
+```cisco```
 
 Para sair da conexão:
 ```exit```
