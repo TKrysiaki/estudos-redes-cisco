@@ -31,7 +31,7 @@ ip domain-name cisco.com
 ```crypto key generate rsa```
 
 ### Tamanho da chave:
-````1024```
+```1024```
 
 ### Criar usuário local
 ```username admin secret cisco```
