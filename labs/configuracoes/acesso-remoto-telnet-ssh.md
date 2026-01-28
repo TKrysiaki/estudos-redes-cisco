@@ -1,7 +1,7 @@
 # Acesso Remoto em Switch e Router (Telnet e SSH)
 
 ## 🔴 Telnet (TCP porta 23)
-### > ⚠️ Telnet não é seguro (senha em texto puro). Em ambiente real, use sempre SSH.
+### ⚠️ Telnet não é seguro (senha em texto puro). Em ambiente real, use sempre SSH.
 
 ### Comando para acessar:
 ```telnet 192.168.10.2```
