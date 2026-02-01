@@ -4,10 +4,12 @@
 ```enable```
 
 ## Verificar status do CDP
-```show cdp```
+```bash
+show cdp
+```
 
 ## Ativar CDP globalmente (se necessário)
-```
+```bash
 conf t
 cdp run
 ```
