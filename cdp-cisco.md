@@ -30,7 +30,7 @@ cdp run
 
 
 ## Ativar CDP em uma interface específica
-```
+```bash
 interface g0/1
 cdp enable
 ```
