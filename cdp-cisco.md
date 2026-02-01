@@ -16,7 +16,8 @@ cdp run
 
 
 ## Ver dispositivos vizinhos
-```show cdp neighbors```
+```bash
+show cdp neighbors```
 
 
 ## Ver detalhes dos vizinhos
