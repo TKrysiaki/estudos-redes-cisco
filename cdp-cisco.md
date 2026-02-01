@@ -1,7 +1,9 @@
 # 📡 Cisco CDP – Configuração e Verificação
 
 ## Acessar modo privilegiado
-```enable```
+```bash
+enable
+```
 
 ## Verificar status do CDP
 ```bash
@@ -22,15 +24,21 @@ show cdp neighbors
 
 
 ## Ver detalhes dos vizinhos
-```show cdp neighbors detail```
+```bash
+show cdp neighbors detail
+```
 
 
 ## Ver opções disponíveis do comando
-```show cdp neighbors ?```
+```bash
+show cdp neighbors ?
+```
 
 
 ## Filtro personalizado (listar apenas IPs)
-```show cdp neighbors detail | include IP address```
+```bash
+show cdp neighbors detail | include IP address
+```
 
 
 ## Ativar CDP em uma interface específica
