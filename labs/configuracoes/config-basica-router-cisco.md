@@ -21,6 +21,7 @@ exit
 
 show ip interface brief
 ```
+
 ```bash
 teste de conectiviade
 ping 192.168.1.10
