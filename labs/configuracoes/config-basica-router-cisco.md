@@ -23,7 +23,7 @@ show ip interface brief
 ```
 
 ```bash
-teste de conectiviade
+Teste de conectividade
 ping 192.168.1.10
 ```
 
@@ -31,7 +31,7 @@ ping 192.168.1.10
 ```bash
 enable
 conf t
-hostname (hostname R1)
+hostname hostname R1
 ```
 
 ## Salvando as Configurações
