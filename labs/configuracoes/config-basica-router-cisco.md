@@ -20,14 +20,19 @@ no shutdown
 exit
 
 show ip interface brief
+```
+```bash
+teste de conectiviade
 ping 192.168.1.10
-
-copy running-config startup-config
 ```
 
 ## Renomenando Router
 ```bash
 enable
 conf t
-hostname (nome)
+hostname (hostname R1)
 ```
+
+## Salvando as Configurações
+```bash
+copy running-config startup-config```
