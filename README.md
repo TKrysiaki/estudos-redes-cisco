@@ -13,8 +13,8 @@ o Cisco Packet Tracer, com foco em configuração básica de **routers** e **swi
 - ✅ Configurações básicas (hostname, senha, NTP, banner)
   
 ## 🧪 Laboratórios práticos:
-- [Lab 1 - Rede básica Router + Switch](labs/configuracoes/packet-tracer/lab1-rede-basica-router-switch.pkt)
-- [Lab 2 - Acesso remoto (Telnet e SSH)](labs/configuracoes/packet-tracer/acesso-remoto-telnet-ssh.md)
+- [Lab 1 - Rede básica Router + Switch](labs/configuracoes/packet-tracer/lab1-router-switch-basico.pkt)
+- [Lab 2 - Acesso remoto (Telnet e SSH)](labs/configuracoes/packet-tracer/acesso-remoto-telnet-ssh.pkt)
 
 
 
