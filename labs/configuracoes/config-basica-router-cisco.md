@@ -36,4 +36,4 @@ hostname hostname R1
 
 ## Salvando as Configurações
 ```bash
-copy running-config startup-config```
+copy running-config startup-config
