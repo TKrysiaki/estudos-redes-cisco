@@ -38,6 +38,7 @@ Router 02: 10.0.0.2 /30
 
 ## ⚙️ Configurações realizadas
 
+```
 VLAN e gateway nos switches
 
 Interfaces roteadores configuradas e ativadas
@@ -47,6 +48,7 @@ Rotas estáticas entre redes
 Testes de conectividade (ping)
 
 SSH configurado para acesso remoto seguro
+```
 
 ## ✅ Resultado
 
