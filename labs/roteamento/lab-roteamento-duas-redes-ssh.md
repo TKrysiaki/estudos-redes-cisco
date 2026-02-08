@@ -4,7 +4,7 @@
 #Simular duas redes separadas interligadas por roteadores, com VLAN, roteamento entre redes e acesso remoto SSH.
 
 ## 🖥️ Topologia e Endereçamento
-#🔹 Rede 1 – 192.168.10.0/24
+🔹 Rede 1 – 192.168.10.0/24
 
 ```
 Router 01 (G0/1): 192.168.10.1
