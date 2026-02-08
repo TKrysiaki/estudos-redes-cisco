@@ -58,6 +58,6 @@ Comunicação total entre todas as máquinas, roteamento funcional e acesso SSH 
 
 ![Topologia](../../imagens/lab-roteamento-duas-redes-v2.png)
 
-## 📂 Arquivo
+## 📂 Arquivo do Lab
 
-Arquivo .pkt incluído para reprodução do cenário.
+[Baixar arquivo Packet Tracer](../configuracoes/packet-tracer/lab-packettracer-roteamento.pkt)
