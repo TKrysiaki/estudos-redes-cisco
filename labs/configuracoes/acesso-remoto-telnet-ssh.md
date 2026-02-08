@@ -70,6 +70,7 @@ Para permitir comunicação entre as duas redes (192.168.10.0/24 e 192.168.20.0/
 
 Ping entre hosts das duas redes funcionando, confirmando roteamento correto.
 
+
 ## 🔵 Acessando via SSH de outro dispositivo
 ```
 enable
