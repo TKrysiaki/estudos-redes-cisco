@@ -54,6 +54,10 @@ SSH configurado para acesso remoto seguro
 
 Comunicação total entre todas as máquinas, roteamento funcional e acesso SSH validado.
 
+## 🖼️ Topologia
+
+![Topologia](../../imagens/lab-roteamento-duas-redes-v2.png)
+
 ## 📂 Arquivo
 
 Arquivo .pkt incluído para reprodução do cenário.
