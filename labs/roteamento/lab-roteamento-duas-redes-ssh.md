@@ -3,8 +3,10 @@
 
 ```Simular duas redes separadas interligadas por roteadores, com VLAN, roteamento entre redes e acesso remoto SSH.```
 
+
 ## 🖥️ Topologia e Testes de Conectividade
 🔹 Rede 1 – 192.168.10.0/24
+
 
 ```
 Router 01 (G0/1): 192.168.10.1
@@ -15,6 +17,7 @@ PC 01: 192.168.10.10 /24
 
 PC 02: 192.168.10.20 /24
 ```
+
 
 🔹 Rede 2 – 192.168.20.0/24
 
@@ -28,6 +31,7 @@ PC 03: 192.168.20.10 /24
 PC 04: 192.168.20.20 /24
 ```
 
+
 🔹 Link entre roteadores (/30)
 
 ```
@@ -35,6 +39,7 @@ Router 01: 10.0.0.1 /30
 
 Router 02: 10.0.0.2 /30
 ```
+
 
 ## ⚙️ Configurações realizadas
 
@@ -49,6 +54,7 @@ Testes de conectividade (ping)
 
 SSH configurado para acesso remoto seguro
 ```
+
 
 ## ✅ Resultado
 
