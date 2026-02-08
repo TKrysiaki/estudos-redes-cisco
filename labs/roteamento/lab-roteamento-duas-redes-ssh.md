@@ -1,5 +1,5 @@
-### Lab Packet Tracer – Roteamento + VLAN + SSH
-## 🎯 Objetivo
+### Lab Packet Tracer — Roteamento entre Redes + VLAN + SSH
+# 🎯 Objetivo
 
 #Simular duas redes separadas interligadas por roteadores, com VLAN, roteamento entre redes e acesso remoto SSH.
 
