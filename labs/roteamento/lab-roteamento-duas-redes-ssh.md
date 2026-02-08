@@ -3,7 +3,7 @@
 
 #Simular duas redes separadas interligadas por roteadores, com VLAN, roteamento entre redes e acesso remoto SSH.
 
-## 🖥️ Topologia e Endereçamento
+## 🖥️ Topologia e Testes de Conectividade
 🔹 Rede 1 – 192.168.10.0/24
 
 ```
@@ -52,12 +52,12 @@ SSH configurado para acesso remoto seguro
 
 ## ✅ Resultado
 
-Comunicação total entre todas as máquinas, roteamento funcional e acesso SSH validado.
+Comunicação validada entre redes distintas, roteamento funcional e acesso remoto SSH operacional.
 
 ## 🖼️ Topologia
 
 ![Topologia](../../imagens/lab-roteamento-duas-redes-v2.png)
 
-## 📂 Arquivo do Lab
+## 📂 Arquivo .pkt disponível para reprodução completa do cenário.
 
 [Baixar arquivo Packet Tracer](../configuracoes/packet-tracer/lab-packettracer-roteamento.pkt)
