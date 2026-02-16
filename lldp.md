@@ -1,7 +1,7 @@
 # LLDP (Link Layer Discovery Protocol)
 
 ## Protocolo de camada 2 utilizado para descobrir dispositivos vizinhos na rede.
-LLDP (Link Layer Discovery Protocol) é um protocolo padrão de camada 2 usado para descoberta de dispositivos vizinhos na rede. Permite que equipamentos compartilhem automaticamente informações como identificação do dispositivo, porta conectada, nome do sistema, capacidades (roteador, switch etc.) e endereços IP/MAC.
+É um protocolo padrão de camada 2 usado para descoberta de dispositivos vizinhos na rede. Permite que equipamentos compartilhem automaticamente informações como identificação do dispositivo, porta conectada, nome do sistema, capacidades (roteador, switch etc.) e endereços IP/MAC.
 
 Por ser um protocolo multivendor, funciona entre equipamentos de diferentes fabricantes, ao contrário de protocolos proprietários como o CDP (Cisco). Isso facilita a visualização da topologia e o gerenciamento em ambientes heterogêneos.
 
