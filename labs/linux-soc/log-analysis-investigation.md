@@ -1,5 +1,8 @@
 # Log Analysis — Investigation
+**Tipo de incidente:** SSH Brute Force Attempt  
+**Nível:** SOC Tier 1 Investigation
 
+---
 ## Objetivo
 Realizar uma investigação mais aprofundada do ataque de força bruta SSH identificado durante a análise inicial dos logs.
 
