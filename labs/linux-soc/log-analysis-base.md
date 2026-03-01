@@ -21,7 +21,8 @@ grep "Failed password" /var/log/auth.log
 ```
 
 ```bash
-wc -l```
+wc -l
+```
 
 ## Evidências
 - múltiplas tentativas de login falhadas
