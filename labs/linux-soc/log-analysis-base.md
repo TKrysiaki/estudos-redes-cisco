@@ -12,11 +12,16 @@ Analisar logs SSH após simulação de ataque brute force.
 /var/log/auth.log
 
 ## Comandos utilizados
-```grep sshd /var/log/auth.log```
+```bash
+grep sshd /var/log/auth.log
+```
 
-```grep "Failed password" /var/log/auth.log```
+```bash
+grep "Failed password" /var/log/auth.log
+```
 
-```wc -l```
+```bash
+wc -l```
 
 ## Evidências
 - múltiplas tentativas de login falhadas
