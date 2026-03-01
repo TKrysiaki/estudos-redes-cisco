@@ -31,7 +31,7 @@ grep "Failed password" /var/log/auth.log | awk '{print $(NF-3)}' | sort | uniq -
 
 Evidência:
 
-![Attacker IP](images/investigation-attacker-ip.png)
+
 
 Análise: Foi identificado um endereço IP responsável pela maior quantidade de tentativas de autenticação falhadas, indicando atividade automatizada típica de ataque brute force.
 
