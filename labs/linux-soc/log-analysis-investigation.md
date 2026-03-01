@@ -15,6 +15,8 @@ O objetivo foi identificar o comportamento do atacante, o usuário alvo e o resu
 ## Fonte dos Logs
 ```/var/log/auth.log```
 
+Sistema analisado: Ubuntu Server 22.04 (ambiente virtualizado em VirtualBox).
+
 Arquivo responsável por registrar eventos de autenticação do sistema Linux, incluindo tentativas de login SSH.
 
 ---
