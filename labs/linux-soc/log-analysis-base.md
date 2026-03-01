@@ -21,7 +21,7 @@ grep "Failed password" /var/log/auth.log
 ```
 
 ```bash
-wc -l
+grep "Failed password" /var/log/auth.log | wc -l
 
 ```
 
